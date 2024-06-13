@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreenScene.unity
+    guid: c58ba868b233d6c428511a6c0be45f0a
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 68859f33f45c34149af515924046d223
+  - enabled: 1
+    path: Assets/Scenes/OptionScene.unity
+    guid: 49ce1ee26eb42054dbf36095da5ec727
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 1c005a2a3db793e41bae120adb74230e
+  - enabled: 1
+    path: Assets/Scenes/ChooseModeScene.unity
+    guid: cd6dc8eb9ffb50343848e2e7f4661f71
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectScene.unity
+    guid: 4bf8c27621a315042ba51f0a980c5e7d
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: f35cd70f2c86fbc418da076e9e3d98b8
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene.unity
+    guid: b61901e9b39d477448c15a486c2894b1
+  - enabled: 1
+    path: Assets/Scenes/Level2Scene.unity
+    guid: 59d805658cfd10e4cb159bb7f5746321
+  - enabled: 1
+    path: Assets/Scenes/Level3Scene.unity
+    guid: d0137dcef90b7fe46aad5b00ad72dce6
+  - enabled: 1
+    path: Assets/Scenes/TokoModeScene.unity
+    guid: 692db251a1f09ae46941c71a6e341d6e
+  - enabled: 1
+    path: Assets/Scenes/PrologScene.unity
+    guid: 5366586d443289d4db7b9af14303c25b
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: 557fb313e5ade474788e90ba9489aef3
+  - enabled: 1
+    path: Assets/Scenes/EndlessMode.unity
+    guid: a5f8f0496e66931429539af805bfb4ea
+  m_configObjects: {}
