@@ -1,3 +1,5 @@
+![Hanakoss](https://github.com/user-attachments/assets/ec110915-dbfd-49b8-badc-0e8b6648e266)
+
 ## About Our Game
 **Hanako: A New Life** is an educational game about Braille Code. In this game, you will learn how to translate Alphabets to Braille Code. Complete the main story or play endless mode!
 ## Features
